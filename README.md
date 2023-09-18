@@ -1,10 +1,10 @@
 # InstagramUnfollowers
 Use your Instagram archive to see who does not follow you back mutually.
 
-# Requirements
+## Requirements
 [Download your Instagram archive](https://help.instagram.com/181231772500920) in **JSON format only**.
 
-# Usage
+## Usage
 Within the zip file from the archive, navigate through the following structure:
 ```
 ├── followers_and_following
