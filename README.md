@@ -13,6 +13,6 @@ Within the zip file from the archive, navigate through the following structure:
 ```
 
 Run the following command:
-`python3 followers_1.json following.json` where you point to the locations of each JSON file.
+`python3 main.py followers_1.json following.json` where you point to the locations of each JSON file.
 
 The users who you follow but you do not follow back will be listed.
